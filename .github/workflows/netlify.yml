@@ -1,0 +1,7 @@
+name: install-netlify-package
+on: [push]
+jobs:
+  check-netlify-version:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "This install netlify"
