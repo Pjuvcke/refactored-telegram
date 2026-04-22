@@ -1,0 +1,7 @@
+name: sample-worklfow
+on: [push]
+jobs:
+  explore-first-github-worklfow:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "This is an echo from workflow"
