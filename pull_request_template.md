@@ -1,2 +1,2 @@
-#PR template
+# PR template
 This is a PR template
